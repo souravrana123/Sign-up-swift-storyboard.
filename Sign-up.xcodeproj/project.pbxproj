@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		7837381F25AED7DC006E871E /* tableTV.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7837381E25AED7DC006E871E /* tableTV.swift */; };
+		7837382125AEF522006E871E /* custom_cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7837382025AEF522006E871E /* custom_cell.swift */; };
 		78D217D925AD791C003B5B57 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D217D825AD791C003B5B57 /* AppDelegate.swift */; };
 		78D217DB25AD791C003B5B57 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D217DA25AD791C003B5B57 /* SceneDelegate.swift */; };
 		78D217DD25AD791C003B5B57 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 78D217DC25AD791C003B5B57 /* ViewController.swift */; };
@@ -16,6 +18,8 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		7837381E25AED7DC006E871E /* tableTV.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tableTV.swift; sourceTree = "<group>"; };
+		7837382025AEF522006E871E /* custom_cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = custom_cell.swift; sourceTree = "<group>"; };
 		78D217D525AD791C003B5B57 /* Sign-up.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Sign-up.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		78D217D825AD791C003B5B57 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		78D217DA25AD791C003B5B57 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +63,8 @@
 				78D217D825AD791C003B5B57 /* AppDelegate.swift */,
 				78D217DA25AD791C003B5B57 /* SceneDelegate.swift */,
 				78D217DC25AD791C003B5B57 /* ViewController.swift */,
+				7837381E25AED7DC006E871E /* tableTV.swift */,
+				7837382025AEF522006E871E /* custom_cell.swift */,
 				78D217DE25AD791C003B5B57 /* Main.storyboard */,
 				78D217E125AD791E003B5B57 /* Assets.xcassets */,
 				78D217E325AD791E003B5B57 /* LaunchScreen.storyboard */,
@@ -140,6 +146,8 @@
 			files = (
 				78D217DD25AD791C003B5B57 /* ViewController.swift in Sources */,
 				78D217D925AD791C003B5B57 /* AppDelegate.swift in Sources */,
+				7837381F25AED7DC006E871E /* tableTV.swift in Sources */,
+				7837382125AEF522006E871E /* custom_cell.swift in Sources */,
 				78D217DB25AD791C003B5B57 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

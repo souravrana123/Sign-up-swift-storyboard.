@@ -1,11 +1,3 @@
-//
-//  ViewController.swift
-//  Sign-up
-//
-//  Created by Drish on 12/01/21.
-//  Copyright © 2021 Drish. All rights reserved.
-//
-
 import UIKit
 
 class ViewController: UIViewController,  UITextFieldDelegate {
@@ -41,7 +33,7 @@ class ViewController: UIViewController,  UITextFieldDelegate {
     
     @IBAction func submitBtnTapped(_ sender: Any)
     {
-        print("User-name: \(usernameTf.text!)\npassword: \(passwordTf.text!)name: \(nameTf.text!)\nphone-number: \(phonenumberTf.text!)")
+        //print("User-name: \(usernameTf.text!)\npassword: \(passwordTf.text!)name: \(nameTf.text!)\nphone-number: \(phonenumberTf.text!)")
     }
     
     
